@@ -7,4 +7,3 @@ def welcome():
 
 print("hii")
 welcome()
-  
